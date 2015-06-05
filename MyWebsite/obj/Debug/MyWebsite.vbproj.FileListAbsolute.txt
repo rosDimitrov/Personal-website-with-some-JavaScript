@@ -1,0 +1,9 @@
+Y:\Developer\Visual Studio Projects\MyWebsite\MyWebsite\bin\MyWebsite.dll.config
+Y:\Developer\Visual Studio Projects\MyWebsite\MyWebsite\bin\MyWebsite.dll
+Y:\Developer\Visual Studio Projects\MyWebsite\MyWebsite\bin\MyWebsite.pdb
+Y:\Developer\Visual Studio Projects\MyWebsite\MyWebsite\bin\MyWebsite.xml
+Y:\Developer\Visual Studio Projects\MyWebsite\MyWebsite\obj\Debug\MyWebsite.Resources.resources
+Y:\Developer\Visual Studio Projects\MyWebsite\MyWebsite\obj\Debug\MyWebsite.vbproj.GenerateResource.Cache
+Y:\Developer\Visual Studio Projects\MyWebsite\MyWebsite\obj\Debug\MyWebsite.dll
+Y:\Developer\Visual Studio Projects\MyWebsite\MyWebsite\obj\Debug\MyWebsite.xml
+Y:\Developer\Visual Studio Projects\MyWebsite\MyWebsite\obj\Debug\MyWebsite.pdb
